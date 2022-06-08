@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Mr. Infinity
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 📫 How to reach me -> yohancabaye34@gmail.com
+- 👋 Hi, I’m Wan Adryansyah
+- 👀 I’m interested in Data Science, especially machine learning
+- 📫 How to reach me -> https://www.linkedin.com/in/wanadryansyah/ or adryansyahwan@gmail.com
